@@ -2,7 +2,7 @@ Dette er en README.md
 
 ---------
 
-Den fokuserer på de tekniske spesifikasjonene, funksjonaliteten i koden din, og inkluderer den strukturerte oversikten (sheet) du ba om.
+
 🥗 MatMester - Avansert Måltidsplanlegger
 MatMester er en responsiv Android-optimalisert webapplikasjon bygget med HTML5, Tailwind CSS og Vanilla JavaScript. Appen automatiserer prosessen med å sette opp ukesmenyer basert på kalori-mål og personlige preferanser.
 📊 Middagsplanlegger Oversikt (System Sheet)
