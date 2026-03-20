@@ -1,22 +1,18 @@
-Dette er et utkast til en README.md for din Android-applikasjon. Den er strukturert for å være profesjonell, oversiktlig og teknisk orientert.
-Mat-Tid-Planlegger-App 🍳
-Mat-Tid-Planlegger-App er en moderne Android-applikasjon designet for å forenkle hverdagslogistikken rundt middagsplanlegging. Ved hjelp av avansert automasjonsteknologi hjelper appen brukere med å finne den perfekte oppskriften gjennom et dynamisk og profilbasert genereringssystem.
-🚀 Hovedfunksjoner
- * Intelligent Middagsplanlegger: Organiser hele ukens måltider på få sekunder.
- * 30 Daglige Forslag: Appen presenterer 30 unike oppskrifter hver dag.
- * "Generate-until-perfect": En interaktiv funksjon der du kan generere nye forslag helt til du finner en oppskrift som frister.
- * Profilbaserte Oppskrifter: Systemet lærer dine preferanser og skreddersyr forslag basert på din personlige brukerprofil.
- * Automasjon Skript-Teknologi: Bruker smarte skript for å hente, filtrere og presentere data sømløst, noe som sikrer en rask og responsiv brukeropplevelse.
-📱 Teknisk Oversikt
-| Komponent | Beskrivelse |
-|---|---|
-| Plattform | Android |
-| Kategori | Mat og Drikke / Produktivitet |
-| Teknologi | Automasjonsskript for datahåndtering |
-| Brukergrensesnitt | Dynamisk liste-generering og profilstyring |
-🛠 Slik fungerer det
- * Opprett Profil: Definer dine smakspreferanser i din profil.
- * Utforsk: Bla gjennom dagens 30 utvalgte middagsforslag.
- * Generer: Bruk automasjonsfunksjonen for å rulle frem nye alternativer hvis du ønsker variasjon.
- * Planlegg: Legg valgt oppskrift direkte inn i din personlige middagsplanlegger.
-Utviklet med fokus på brukervennlighet og effektiv matglede.
+Her er et forslag til en strukturert oversikt over hvordan middagsplanleggeren fungerer, satt opp som en tabell i README.md. Denne viser flyten fra generering til ferdig plan.
+📅 Middagsplanlegger Oversikt
+Tabellen nedenfor illustrerer hvordan appens kjernefunksjonalitet håndterer daglig planlegging og profilbasert generering.
+| Funksjon | Prosess | Teknologi | Resultat |
+|---|---|---|---|
+| Profil-Analyse | Leser lagrede brukerpreferanser | Profil-motor | Skreddersydd utvalg av råvarer |
+| Daglig Utvalg | Henter 30 unike oppskrifter per dag | Automasjonsskript | En rikholdig liste med alternativer |
+| Smart-Generering | "Generer til du liker en oppskrift" | Iterasjons-logikk | Brukertilfredshet før lagring |
+| Middagsplan | Fordeler valgte retter på ukedager | Planleggings-modul | Fullført ukesmeny |
+| Automatisering | Synkronisering av ingredienser | Skript-teknologi | Effektivisering av handlelisten |
+🛠 Eksempel på Planleggings-skjema (UI Data)
+Dette er eksempelet på hvordan dataene struktureres internt i appen for en typisk dag:
+| Tidspunkt | Handling | Antall Forslag | Status |
+|---|---|---|---|
+| 08:00 | Refresh | 30 nye oppskrifter | Klar for valg |
+| Ved behov | Re-generer | Ubegrenset | Søker match... |
+| 16:00 | Aktiver Plan | 1 valgt rett | Middag bekreftet |
+Ønsker du at jeg skal legge til en seksjon for "Tekniske Krav" eller kanskje en oversikt over hvordan profilsystemet lagrer data lokalt på Android-enheten?
